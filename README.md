@@ -15,7 +15,7 @@ To increase they layers of security we added a Certificate Authority. We also us
 
 How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
 
-To ensure that the software application was functional and secure I checked it on a https://localhost:8443/hash. Unfortunately I tried to get the URL secure for hours and us not successful in this attempt. My CA was signed by me, I could get the URL to display on my computer, however it was not secure. 
+To ensure that the software application was functional and secure I checked it on a https://localhost:8443/hash. Unfortunately I tried to get the URL secure for hours and was not successful in this attempt. My CA was signed by me, I could get the URL to display on my computer, however it was not secure. 
 
 What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
 Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
